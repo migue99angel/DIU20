@@ -30,19 +30,23 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+Pazifiko es una plataforma que permite buscar compañeros de viaje, tanto organizar un viaje de modo que usuarios de la plataforma se unan,
+como buscar viajes ya organizados por otros usuarios. Leímos sobre otra app llamada Miss travel, pero la rechazamos porque no estamos de acuerdo con sus ideales 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+José Luis representa la juventud que busca ir de fiesta y tiene limitaciones de estudiante.
+Maria Teresa representa parejas jovenes estables que viajan con hijos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
+Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenemos un perfil similar y es lo más similar en estas apps, también hemos elegido el perfil de Maria Teresa porque es poco común querer encontrar compañeros de viaje habiendo formado una familia.
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
