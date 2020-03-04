@@ -41,8 +41,8 @@ Maria Teresa representa parejas jovenes estables que viajan con hijos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-(img/persona1.jpg)
-(img/persona2.jpg)
+[Persona 1](img/persona1.jpg)
+[Persona 2](img/persona2.jpg)
 
 >>> Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenemos un perfil similar y es lo más similar en estas apps, también hemos elegido el perfil de Maria Teresa porque es poco común querer encontrar compañeros de viaje habiendo formado una familia.
 
