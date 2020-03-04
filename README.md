@@ -35,14 +35,15 @@ como buscar viajes ya organizados por otros usuarios. Leímos sobre otra app lla
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![Persona 1](img/persona1.jpg)
+![Persona 2](img/persona2.jpg)
 
 >>> José Luis representa la juventud que busca ir de fiesta y tiene limitaciones de estudiante.
 Maria Teresa representa parejas jovenes estables que viajan con hijos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-![Persona 1](img/persona1.jpg)
-![Persona 2](img/persona2.jpg)
+
 
 >>> Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenemos un perfil similar y es lo más similar en estas apps, también hemos elegido el perfil de Maria Teresa porque es poco común querer encontrar compañeros de viaje habiendo formado una familia.
 
