@@ -39,7 +39,7 @@ como buscar viajes ya organizados por otros usuarios. Leímos sobre otra app lla
 ![Persona 2](img/persona2.jpg)
 
 >>> José Luis representa la juventud que busca ir de fiesta y tiene limitaciones de estudiante.
-Maria Teresa representa parejas jovenes estables que viajan con hijos.
+María Teresa representa parejas jóvenes estables que viajan con hijos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
