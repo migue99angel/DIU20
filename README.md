@@ -54,7 +54,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 66
->>> - Comentario sobre la valoración:  (60-120 caracteres): En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
+>>> - Comentario sobre la valoración:  (60-120 caracteres):En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
 
 
 ## Paso 2. UX Design  
