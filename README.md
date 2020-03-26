@@ -93,12 +93,13 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Etiqueta | Nota                                                                                                       |
+|----------|------------------------------------------------------------------------------------------------------------|
+| Buscar   | Herramienta para filtrar por viajes según a unos criterios que estima el usuario                           |
+| Galería  | Recopilación de imágenes realizadas durante los distintos viajes de la plataforma que ya han tenido lugar  |
+| Contacto | Página en la que se incluyen los distintos medios de contacto con el soporte técnico de la plataforma      |
+| Viajes   | Sección donde se publican y se pueden ver los distintos viajes que se pretenden organizar en la plataforma |
+| Perfil   | Sección donde se sitúan todas las opciones de configuración disponibles para el usuario                    |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
