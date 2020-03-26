@@ -78,7 +78,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-**Matriz de Tareas/Usuarios**
+<div align="center">**Matriz de Tareas/Usuarios**
 | Grupos de Usuarios           | Usuario Logueado | Usuario No Logueado |
 |------------------------------|------------------|---------------------|
 | Iniciar Sesión               |                  | H                   |
@@ -92,6 +92,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 
 **Sitemap**  
 ![Sitemap](P2/sitemap.png)
+</div>
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
@@ -108,6 +109,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
+<div align="center">
 **Perfil**  
 ![Sitemap](P2/Boceto/Index.html.png)  
 <br>
@@ -134,7 +136,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 
 **Viajes**  
 ![Sitemap](P2/Boceto/viajes.html.png)  
-
+</div>
 
 ## Paso 3. Make (Prototyping) 
 
