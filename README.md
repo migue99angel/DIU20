@@ -78,7 +78,16 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+**Matriz de Tareas/Usuarios**
+| Grupos de Usuarios           | Usuario Logueado | Usuario No Logueado |
+|------------------------------|------------------|---------------------|
+| Iniciar Sesión               |                  | H                   |
+| Registrarse                  |                  | M                   |
+| Publicar Viaje               | M                |                     |
+| Apuntarse a Viaje            | M                |                     |
+| Consultar viajes disponibles | H                | M                   |
+| Contactar con Soporte        | H                | M                   |
+| Publicar un comentario       | M                |                     |
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
