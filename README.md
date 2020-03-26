@@ -81,6 +81,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 <div align="center">
 
 **Matriz de Tareas/Usuarios**
+<div align="center">
 | Grupos de Usuarios           | Usuario Logueado | Usuario No Logueado |
 |------------------------------|------------------|---------------------|
 | Iniciar Sesión               |                  | H                   |
@@ -90,6 +91,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 | Consultar viajes disponibles | H                | M                   |
 | Contactar con Soporte        | H                | M                   |
 | Publicar un comentario       | M                |                     |
+</div>
 <br>
 
 **Sitemap**  
@@ -112,6 +114,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 -----
 
 <div align="center">
+
 **Perfil**  
 ![Sitemap](P2/Boceto/Index.html.png)  
 <br>
