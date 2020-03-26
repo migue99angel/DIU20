@@ -94,11 +94,8 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 <br>
 
 **Sitemap**  
-<div align="center>
-
 ![Sitemap](P2/sitemap.png)
 
-</div>
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
