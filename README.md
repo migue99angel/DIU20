@@ -108,13 +108,13 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![Sitemap](P2/Boceto/index.html.png)  
+![Sitemap](P2/Boceto/Index.html.png)  
 ![Sitemap](P2/Boceto/contacto.html.png)  
 ![Sitemap](P2/Boceto/galería.html.png)  
 ![Sitemap](P2/Boceto/iniciarSesion.html.png)  
 ![Sitemap](P2/Boceto/perfil.html.png)  
 ![Sitemap](P2/Boceto/publicar_viaje.html.png)  
-![Sitemap](P2/Boceto/viaje.html.png)  
+![Sitemap](P2/Boceto/viajes.html.png)  
 
 
 ## Paso 3. Make (Prototyping) 
