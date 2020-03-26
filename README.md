@@ -67,7 +67,10 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
+ Interesante | Críticas
+ * Diseño limpio. Se destaca lo importante y utiliza una paleta de colores agradable a la vista. | * Añadir un sistema de mensajes para poder establecer contacto de manera más fácil con compañeros de viaje.
+ * Interfaz amigable. La información está concentrada y se destaca lo importante. | * Permitir la búsqueda de viajes por varios aspectos.
+ * El panel de control de usuario destaca las opciones importantes y es claro. | * Permitir añadir en la descripción el número de integrantes que se buscan y los integrantes que buscan compañeros.
 | ------------- | -------
   Preguntas | Nuevas ideas
   
