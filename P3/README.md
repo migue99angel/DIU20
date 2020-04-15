@@ -11,3 +11,9 @@ Después de realizar las entrevistas, desarrollaron un *Affinity Mapping*, tambi
 A raíz de eso comienzan a plantear los mapas de experiencia de los usuarios junto con el diagrama de flujo que seguira un usuario en su aplicación. Finalmente comienzan a plantear ciertos bocetos iniciales a los que les acompaña el sitemap y los mockup finales.
 
 Creemos que es un muy buen ejemplo de historia ya que se adapta y sigue en su mayoría los pasos que hemos ido dando hasta ahora en la asignatura.
+
+### Patrones de Diseño y Guidelines
+
+### Cuenta tu historia
+
+### Conclusiones
