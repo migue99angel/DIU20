@@ -114,7 +114,7 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 
 <div align="center">
 
-**Perfil**  
+**Página principal**  
 ![Sitemap](P2/Boceto/Index.html.png)  
 <br>
 
