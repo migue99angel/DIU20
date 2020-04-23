@@ -10,7 +10,9 @@ Después de realizar las entrevistas, desarrollaron un *Affinity Mapping*, tambi
 
 A raíz de eso comienzan a plantear los mapas de experiencia de los usuarios junto con el diagrama de flujo que seguira un usuario en su aplicación. Finalmente comienzan a plantear ciertos bocetos iniciales a los que les acompaña el sitemap y los mockup finales.
 
-Creemos que es un muy buen ejemplo de historia ya que se adapta y sigue en su mayoría los pasos que hemos ido dando hasta ahora en la asignatura.
+La ténica que nos ha parecido más interesante es el *Competitive Analysis*. Han dedicado la primera parte del ciclo de desarrollo UX en ver y comparar las distintas aplicaciones disponibles en el mercado. Creemos que es una muy buena metodología a tener en cuenta a y dedicar tiempo para ver en qué fallan y en qué aciertan las posibilidades existentes, así como observar las opiniones de los usuarios con respecto a esas aplicaciones.
+
+Creemos que es un muy buen ejemplo de historia ya que nuestras prácticas se adaptan correctamente a la metodología UX seguida por MuseMap.
 
 ### Patrones de Diseño y Guidelines
 
