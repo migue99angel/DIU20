@@ -127,7 +127,9 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 -----
 
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+Cuando una empresa empieza a diseñar una aplicación, primeramente hace un estudio previo sin tener en cuenta la opinión de los usuarios. Posteriormente, una vez hayan planteado
+el esquema inicial de la aplicación, se entrevistan con los usuarios y obtienen los problemas y las preocupaciones reales de los usuarios potenciales. A continuación, comienzan
+a desarrollar los mockups y bocetos en base a eso. 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
