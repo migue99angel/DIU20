@@ -28,7 +28,7 @@ En cuanto a la fuente hemos decidido utilizar Roboto
 
 En cuanto a la paleta de colores hemos generado la de la imagen con la herramienta https://coolors.co/ . Hemos optado por esta ya que tiene tonos pastel que son agradables a la vista y harán que el usuario se sienta cómodo navegando por nuestra aplicación, además presenta predominancia del color azul el cual se sabe que es uno de los colores favoritos, independientemente del género como presentan diversos estudios.
 
-![Paleta de colores](img/paletacolores.png)  
+![Paleta de colores](../img/paletacolores.png)  
 <br>
 
 
