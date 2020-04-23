@@ -8,22 +8,22 @@
 <br>
 
 **Galería**  
-![Sitemap](P2/Boceto/galería.html.png)  
+![Sitemap](Boceto/galería.html.png)  
 <br>
 
 **Iniciar Sesión**  
-![Sitemap](P2/Boceto/iniciarSesion.html.png)  
+![Sitemap](Boceto/iniciarSesion.html.png)  
 <br>
 
 **Perfil**  
-![Sitemap](P2/Boceto/perfil.html.png)  
+![Sitemap](Boceto/perfil.html.png)  
 <br>
 
 **Publicar Viaje**  
-![Sitemap](P2/Boceto/publicar_viaje.html.png)  
+![Sitemap](Boceto/publicar_viaje.html.png)  
 <br>
 
 **Viajes**  
-![Sitemap](P2/Boceto/viajes.html.png)
+![Sitemap](Boceto/viajes.html.png)
 
 </div>
