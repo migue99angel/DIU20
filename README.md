@@ -136,8 +136,12 @@ En el siguiente enlace accedemos a una descripción más detallada. [Enlace a la
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+El logotipo diseñado es el siguiente:
+![Pazifika](img/logo.png)
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra? 
+Hemos usado una herramienta online de logos prefabricados y la hemos adaptado a nuestras necesidades. La resolución empleada es la mejor que ofrecía la página mencionada
+y creemos que es suficiente para la página. El logotipo se podría usar como foto de perfil en las redes sociales, pero se necesitarían más diseños para cubrir las cabeceras
+y otros aspectos de los perfiles.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
