@@ -140,7 +140,9 @@ a desarrollar los mockups y bocetos en base a eso.
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos optado por aplicar los patrones *Call-to-Action Buttoms* para que el usuario tenga siempre presente que acciones puede realizar, así como *Progress Trackers* en los formularios ya que es importante conocer el progreso realizado miestras estos son rellenados y *Search Resulsts Design* ya que un buen diseño de la página de resultados en fundamental. 
+
+En el siguiente enlace detallamos mucho más lo anteriormente comentado, así como comentar los detalles que hemos utilizado siguiendo la guideline de Google y especificación de la paleta de colores y fuente utilizada. [Enlace a la especificación detallada](P3/README.md)
 
 ![Método UX](img/mockup.png)  3.d Vídeo
 ----
