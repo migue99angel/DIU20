@@ -4,7 +4,7 @@
 <div align="center">
 
 **Contacto**  
-![Sitemap](P2/Boceto/contacto.html.png)  
+![Sitemap](Boceto/contacto.html.png)  
 <br>
 
 **Galería**  
