@@ -132,6 +132,7 @@ el esquema inicial de la aplicación, se entrevistan con los usuarios y obtienen
 a desarrollar los mockups y bocetos en base a eso. 
 
 En el siguiente enlace accedemos a una descripción más detallada. [Enlace a la especificación detallada](P3/README.md)
+
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
