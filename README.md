@@ -131,6 +131,7 @@ Cuando una empresa empieza a diseñar una aplicación, primeramente hace un estu
 el esquema inicial de la aplicación, se entrevistan con los usuarios y obtienen los problemas y las preocupaciones reales de los usuarios potenciales. A continuación, comienzan
 a desarrollar los mockups y bocetos en base a eso. 
 
+En el siguiente enlace accedemos a una descripción más detallada. [Enlace a la especificación detallada](P3/README.md)
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
