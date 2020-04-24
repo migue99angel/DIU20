@@ -20,11 +20,19 @@ Tras una investigación exhaustiva acerca los patrones de diseño detallaremos l
 
 Como se trata de una interfaz móvil, uno de los patrones que consideramos fundamental es el llamado *Call-to-Action Buttoms* que consiste en implementar las funcionalidades a través de botones de modo que usuario con una simple vista sabe cuales son las funcionalidades que puede realizar.
 
+![Paleta de colores](../P2/Boceto/galería.html.png)
+
 También creemos adecuado el patrón *Progress Trackers* que consiste en mantener informado al usuario en el progreso que lleva realizado a la hora de realizar una acción, creemos que a la hora de rellenar los formularios para publicar un viaje es necesario que el usuario sepa en todo momento cuanto le queda por terminar el proceso.
 
-Otro patrón que usamos es el llamado *Search Results Design*. Consideramos que es importante un buen diseño de la página de resultados porque es una de las funcionalidades esenciales de nuestra aplicación, por lo que es importante que el diseño de esta sea el más cómodo para el usuario, proporcionando la cantidad de resultados obtenidos, un método para filtrar los resultados etc ... 
+![Paleta de colores](../P2/Boceto/publicar_viaje.html.png)
+
+Otro patrón que usamos es el llamado *Search Results Design*. Consideramos que es importante un buen diseño de la página de resultados porque es una de las funcionalidades esenciales de nuestra aplicación, por lo que es importante que el diseño de esta sea el más cómodo para el usuario, proporcionando la cantidad de resultados obtenidos, un método para filtrar los resultados etc ...
+
+ ![Paleta de colores](../img/Busquedas.html.png) 
 
 Basandonos en el guideline de Google, vemos una buena práctica mostrar el valor de nuestra aplicación en primer lugar de modo que nada más entrar a la página principal se pueda realizar una búsqueda para que el usuario que entre tenga claro que se trata de una aplicación para la búsqueda de compañeros de viaje. Siguiendo esto mismo pondremos la barra de búsqueda siempre en una posición destacada para que se el usuario la tenga fácilmente localizada. 
+
+
 
 En cuanto a la fuente hemos decidido utilizar Roboto
 
