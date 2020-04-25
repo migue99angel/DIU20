@@ -153,7 +153,7 @@ En el siguiente enlace detallamos mucho más lo anteriormente comentado, así co
 ![Método UX](img/mockup.png)  3.d Vídeo
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+https://drive.google.com/open?id=1sPXz_SW_37V6XT4Jr1sQY5hqU069t2Sx
 
 
 ## Paso 4. Evaluación 
