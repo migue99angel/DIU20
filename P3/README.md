@@ -54,3 +54,8 @@ En cuanto a la paleta de colores hemos generado la de la imagen con la herramien
 ### Cuenta tu historia
 
 ### Conclusiones
+En esta práctica hemos aprendido a analizar una experiencia de desarollo de aplicación y estamos viendo que lo que estamos haciendo en las prácticas de la asignatura se adapta a lo que se hace en situaciones reales.
+
+Hemos realizado una buena búsqueda y lecturas de los distintos patrones que se usan para el diseño, así como las posibles fuentes y colores que podríamos usar en nuestra aplicación.
+
+Los problemas que nos hemos encontrado han sido al intentar modificar los bocetos. La aplicación que utilizamos no da la opción para cambiar la fuente o los colores del boceto.
