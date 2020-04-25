@@ -52,6 +52,7 @@ En cuanto a la paleta de colores hemos generado la de la imagen con la herramien
 
 
 ### Cuenta tu historia
+https://drive.google.com/open?id=1sPXz_SW_37V6XT4Jr1sQY5hqU069t2Sx
 
 ### Conclusiones
 En esta práctica hemos aprendido a analizar una experiencia de desarollo de aplicación y estamos viendo que lo que estamos haciendo en las prácticas de la asignatura se adapta a lo que se hace en situaciones reales.
