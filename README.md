@@ -52,7 +52,7 @@ Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenem
 ----
 - [Enlace al documento](https://github.com/migue99angel/DIU20/blob/master/P1/Usability-review-complete.pdf)
 - Valoración final (numérica): 66
-- Comentario sobre la valoración:  (60-120 caracteres):En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
+- Comentario sobre la valoración: En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
 
 
 ## Paso 2. UX Design  
@@ -68,9 +68,9 @@ Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenem
 | Hay un fallo a la hora de mostrar el mapa de ubicación. ¿Se podría mejorar?<br>¿Se podrían añadir más opciones para filtrar viajes?<br>Estaría bien tener una opción adicional para hacer amigos en la plataforma y poder hacer viajes conjuntos.              | Mostrar ejemplos de viajes que estén activos actualmente, de diferentes categorías.<br>Intentar que cuando un usuario se registre, este consiga publicar un viaje o se inscriba en uno existente en las primeras visitas del usuario.<br>La plataforma no cuenta con redes sociales de ningún tipo. No se puede contactar con ellos más allá del correo. |
   
   
->>> Proponemos una aplicación que incluya una gran variedad de opciones de búsqueda, así como poder publicar un viaje con las etiquetas suficientes para que personas con gustos similares puedan encontrar tu viaje más fácilmente.
->>> 
->>> Incorporamos también una galería de imágenes donde los viajeros puedan publicar las imágenes de sus viajes y otros usuarios puedan admirar los lugares donde recientemente han ido otros usuarios que han usado la plataforma
+Proponemos una aplicación que incluya una gran variedad de opciones de búsqueda, así como poder publicar un viaje con las etiquetas suficientes para que personas con gustos similares puedan encontrar tu viaje más fácilmente.
+
+Incorporamos también una galería de imágenes donde los viajeros puedan publicar las imágenes de sus viajes y otros usuarios puedan admirar los lugares donde recientemente han ido otros usuarios que han usado la plataforma
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
