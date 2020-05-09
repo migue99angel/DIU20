@@ -30,7 +30,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Pazifiko es una plataforma que permite buscar compañeros de viaje, tanto organizar un viaje de modo que usuarios de la plataforma se unan,
+Pazifiko es una plataforma que permite buscar compañeros de viaje, tanto organizar un viaje de modo que usuarios de la plataforma se unan,
 como buscar viajes ya organizados por otros usuarios. Leímos sobre otra app llamada Miss travel, pero la rechazamos porque no estamos de acuerdo con sus ideales 
 
 ![Método UX](img/Persona.png) 1.b Persona
@@ -38,7 +38,7 @@ como buscar viajes ya organizados por otros usuarios. Leímos sobre otra app lla
 ![Persona 1](img/persona1.jpg)
 ![Persona 2](img/persona2.jpg)
 
->>> José Luis representa la juventud que busca ir de fiesta y tiene limitaciones de estudiante.
+José Luis representa la juventud que busca ir de fiesta y tiene limitaciones de estudiante.
 María Teresa representa parejas jóvenes estables que viajan con hijos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
@@ -46,15 +46,13 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 ![Journey Map Jose Luis](img/journeyMap_JoseLuis.jpg)
 ![Journey Map Maria Teresa](img/journeyMap_MariaTeresa.jpg)
 
->>> Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenemos un perfil similar y es lo más similar en estas apps, también hemos elegido el perfil de Maria Teresa porque es poco común querer encontrar compañeros de viaje habiendo formado una familia.
+Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenemos un perfil similar y es lo más similar en estas apps, también hemos elegido el perfil de Maria Teresa porque es poco común querer encontrar compañeros de viaje habiendo formado una familia.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 66
->>> - Comentario sobre la valoración:  (60-120 caracteres):En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
+- [Enlace al documento](https://github.com/migue99angel/DIU20/blob/master/P1/Usability-review-complete.pdf)
+- Valoración final (numérica): 66
+- Comentario sobre la valoración:  (60-120 caracteres):En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
 
 
 ## Paso 2. UX Design  
