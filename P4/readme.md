@@ -18,12 +18,13 @@ Para el caso 3 los compañeros han analizado una aplicación para aprender a coc
 [Repositorio](https://github.com/Mxgang/DIU20) || [Hoja de evaluación](https://github.com/migue99angel/DIU20/blob/master/P4/DIU3.Crescendum_review.xlsx)
 
 ## User Testing
+Hemos escogido como persona ficticia a [María Teresa](https://github.com/migue99angel/DIU20/raw/master/img/persona2.jpg). Recordamos que esta persona ficticia tenía pareja y un hijo. Vive con su pareja en Madrid, es fisioterapeuta y le gustan los viajes tranquilos.
 
-	Describe la experiencia 1
+### Experiencia 1
+A María Teresa le surge la misma preocupación que con Pazifika. Ella y su familia desea hacer un viaje con otra pareja de estructura similar: una pareja con un hijo. María Teresa no sabe si PlanBClub tendrá las opciones y los filtros disponibles para poder satisfacer todas sus necesidades.
 
-	Describe la experiencia 2
+### Experiencia 2
 
-	Describe la experiencia 3
-
+### Experiencia 3
 
 ## Conclusiones
