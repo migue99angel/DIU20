@@ -3,11 +3,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_Cohete.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Pazifika
 
-Descripción: 
+Descripción: Pretendemos desarrollar una aplicación para poder buscar compañeros de viaje de una manera sencilla y ágil, con muchas opciones para filtrar por viajes y una interfaz clara y limpia.
 
-Logotipo: 
+Logotipo: ![Pazifika](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Francisco Domínguez Lorente     :octocat:     
