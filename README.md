@@ -178,7 +178,7 @@ Para este caso 2, el compañero ha analizado una aplicación para alquiler de pi
 
 Para el caso 3 los compañeros han analizado una aplicación para aprender a cocinar en vivo, degustar comida y hacer tours gastronómicos. Como propuesta de valor los compañeros proponen la creación de un diseño en el que prime la eficiencia y la velocidad del sistema ya que en el análisis de la práctica 1 han detectado que el principal problema de la plataforma que analizaban era el tiempo invertido por parte del usuario en el uso de la aplicación. 
 
-[Repositorio](https://github.com/Mxgang/DIU20) || [Hoja ded evaluación](https://github.com/migue99angel/DIU20/blob/master/P4/DIU3.Crescendum_review.xlsx)
+[Repositorio](https://github.com/Mxgang/DIU20) || [Hoja de evaluación](https://github.com/migue99angel/DIU20/blob/master/P4/DIU3.Crescendum_review.xlsx)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
