@@ -70,10 +70,9 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 | Hay un fallo a la hora de mostrar el mapa de ubicación. ¿Se podría mejorar?<br>¿Se podrían añadir más opciones para filtrar viajes?<br>Estaría bien tener una opción adicional para hacer amigos en la plataforma y poder hacer viajes conjuntos.              | Mostrar ejemplos de viajes que estén activos actualmente, de diferentes categorías.<br>Intentar que cuando un usuario se registre, este consiga publicar un viaje o se inscriba en uno existente en las primeras visitas del usuario.<br>La plataforma no cuenta con redes sociales de ningún tipo. No se puede contactar con ellos más allá del correo. |
   
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Proponemos una aplicación que incluya una gran variedad de opciones de búsqueda, así como poder publicar un viaje con las etiquetas suficientes para que personas con gustos similares puedan encontrar tu viaje más fácilmente.
+>>> 
+>>> Incorporamos también una galería de imágenes donde los viajeros puedan publicar las imágenes de sus viajes y otros usuarios puedan admirar los lugares donde recientemente han ido otros usuarios que han usado la plataforma
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
@@ -119,6 +118,8 @@ María Teresa representa parejas jóvenes estables que viajan con hijos.
 <br>
 
 </div>
+
+[Resto de wireframes](https://github.com/migue99angel/DIU20/tree/master/P2)
 
 ## Paso 3. Mi equipo UX-Case Study 
 
