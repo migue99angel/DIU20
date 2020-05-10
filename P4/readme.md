@@ -24,7 +24,9 @@ Hemos escogido como persona ficticia a [María Teresa](https://github.com/migue9
 A María Teresa le surge la misma preocupación que con Pazifika. Ella y su familia desea hacer un viaje con otra pareja de estructura similar: una pareja con un hijo. María Teresa no sabe si PlanBClub tendrá las opciones y los filtros disponibles para poder satisfacer todas sus necesidades.
 
 ### Experiencia 2
+María Teresa y su familia han alquilado un piso cerca de una zona céntrica de su próximo viaje a Budapest. No tienen mucho tiempo que perder ya que será un viaje corto. Ella y su familia ya han mirado los eventos cercanos e incluso habían obtenido las entradas de varios eventos. Cuando ya están en Budapest, se preparan para ir a uno de esos eventos en el teatro. Una vez llegan allí, les informan de que la obra se había cancelado varias horas antes por enfermedad de varios actores. No han tenido forma de saber que eso iba a pasar y la aplicación no les ha informado de la situación.
 
 ### Experiencia 3
+María Teresa y su familia quieren probar un sitio nuevo para cenar cerca de su urbanización. Un amigo de la pareja de María Teresa le recomienda una aplicación llamada SweetIt! Inicialmente ilusionados la pareja comienza a mirar los diversos restaurantes por categorías en los que pueden hacer una reserva. A medida que van viendo más restaurantes, se dan cuenta que en muy pocos de ellos se incluye una opción clara de "Menú Infantil", quizás directamente porque no tienen menú infantil en el restaurate, o porque no figura en la aplicación. Al final acaban recurriendo a una de las opciones de siempre al no tener información clara sobre el menú infantil para su hijo.
 
 ## Conclusiones
