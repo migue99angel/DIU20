@@ -1,7 +1,7 @@
 # DIU - Practica 4, entregables
 ## Caso 1
 
-Para el primer caso los compañeros han analizado una plataforma de economía colaborativa para la organización de viajes o incluso la búsqueda de compañero de viaje. Como propuesta de valor sobre la página que han analizado en la práctica 1 proponen principalmente una mejora del deiseño de la página principal.   
+Para el primer caso los compañeros han analizado una plataforma de economía colaborativa para la organización de viajes o incluso la búsqueda de compañero de viaje. Como propuesta de valor sobre la página que han analizado en la práctica 1 proponen principalmente una mejora del diseño de la página principal.   
 
 [Repositorio](https://github.com/raulsoria98/DIU20) || [Hoja de evaluación](https://github.com/migue99angel/DIU20/blob/master/P4/DIU1.HOOKAH_review.xlsx)
 
@@ -27,10 +27,10 @@ A María Teresa le surge la misma preocupación que con Pazifika. Ella y su fami
 María Teresa y su familia han alquilado un piso cerca de una zona céntrica de su próximo viaje a Budapest. No tienen mucho tiempo que perder ya que será un viaje corto. Ella y su familia ya han mirado los eventos cercanos e incluso habían obtenido las entradas de varios eventos. Cuando ya están en Budapest, se preparan para ir a uno de esos eventos en el teatro. Una vez llegan allí, les informan de que la obra se había cancelado varias horas antes por enfermedad de varios actores. No han tenido forma de saber que eso iba a pasar y la aplicación no les ha informado de la situación.
 
 ### Experiencia 3
-María Teresa y su familia quieren probar un sitio nuevo para cenar cerca de su urbanización. Un amigo de la pareja de María Teresa le recomienda una aplicación llamada SweetIt! Inicialmente ilusionados la pareja comienza a mirar los diversos restaurantes por categorías en los que pueden hacer una reserva. A medida que van viendo más restaurantes, se dan cuenta que en muy pocos de ellos se incluye una opción clara de "Menú Infantil", quizás directamente porque no tienen menú infantil en el restaurate, o porque no figura en la aplicación. Al final acaban recurriendo a una de las opciones de siempre al no tener información clara sobre el menú infantil para su hijo.
+María Teresa y su familia quieren probar un sitio nuevo para cenar cerca de su urbanización. Un amigo de la pareja de María Teresa le recomienda una aplicación llamada SweetIt! Inicialmente ilusionados la pareja comienza a mirar los diversos restaurantes por categorías en los que pueden hacer una reserva. A medida que van viendo más restaurantes, se dan cuenta que en muy pocos de ellos se incluye una opción clara de "Menú Infantil", quizás directamente porque no tienen menú infantil en el restaurante, o porque no figura en la aplicación. Al final acaban recurriendo a una de las opciones de siempre al no tener información clara sobre el menú infantil para su hijo.
 
 ## Conclusiones
-Para concluir con la práctica, creemos que ha sido una práctica interesante de realizar porque hemos tenido que mirar en detalle el trabajo de nuestros compañeros: su propuesta de valor, cómo han efocado el diseño de su aplicación, los bocetos y una de las partes más interesantes: el vídeo de introducción a su propuesta de valor.
+Para concluir con la práctica, creemos que ha sido una práctica interesante de realizar porque hemos tenido que mirar en detalle el trabajo de nuestros compañeros: su propuesta de valor, cómo han enfocado el diseño de su aplicación, los bocetos y una de las partes más interesantes: el vídeo de introducción a su propuesta de valor.
 
 También nos ha parecido interesante el tener distintas temáticas entre los diferentes grupos. Con el primero de los grupos, al ser el mismo que el nuestro teníamos algo más de experiencia y familiarización, pero con los otros dos, al ser nuevos y tratar de temáticas algo diferentes ha sido curioso analizarlos y ver cómo han planteado sus prácticas.
 
