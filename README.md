@@ -206,9 +206,10 @@ Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2
 
 ## Paso 5. Rediseño de práctica 
 --- 
-
-
 ### 5.1 Rediseño del análisis competitivo
+Obtenemos información tanto del checklist elaborado por el profesor tanto de las tres evaluaciones de nuestros compañeros de que el análisis competitivo es algo pobre y escaso de información. Tienen razón estas valoraciones y por tanto hemos hecho un análisis competitivo de algunas otras aplicaciones que podrían hacer competencia a Pazifika.
+
+Se puede leer el análisis completo a través de [este enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
 
 ### 5.2 Mejora del Usability Review
 
