@@ -22,3 +22,5 @@ En primer lugar presentamos a Jose Luis, un estudiante de Bellas Artes con 21 a�
 En segundo lugar, Maria Teresa es una mujer de 33 años, se dedica a la fisioterapia y vive en Madrid junto a su pareja y su hijo. Les gustaría irse de viaje y seguir acumulando experiencias y recuerdos juntos como familia.
 
 ### 1.c User Journey Map
+
+A través de las valoraciones del checklist del profesor hemos detectado varios fallos en los Journey Map, primero no surgia ningún conflicto en la experiencia de uso de las personas, y los pequeños inconvenientes que surgian no ayudaban de mucho para la redacción del Feedback Capture Grid, por tanto hemos realizado de nuevo el Journey Map de Jose Luis, de modo que le surgen varios problemas en su uso. Estos problemas los comentamos en el Feedback Capture Grid con objetivo de solventar estos problemas.
