@@ -215,7 +215,7 @@ Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2
 
 Para la mejora de este apartado se han tenido en cuenta las anotaciones que el profesor propone en la checklist "Conclusion no acorde con puntuacion", y es que en nuestra conclusión inicial poníamos una calificación de 66 y en la conclusión nos centrabamos demasiado en los errores de rendimiento. 
 
-Consideramos que la calificación es la misma (66 puntos - Moderate) ya que el análisis se realizo correctamente, pero efectivamente la conclusión era bastante mejorable, ahora hacemos hincapie en que efectivamente la página tiene un diseño correcto, sin olvidar aquellos problemas de disponibilidad que lastran un poco a la plataforma.
+Consideramos que la calificación es la misma (66 puntos - Moderate) ya que el análisis se realizó correctamente, pero efectivamente la conclusión era bastante mejorable, ahora hacemos hincapié en que efectivamente la página tiene un diseño correcto, sin olvidar aquellos problemas de disponibilidad que lastran un poco a la plataforma.
 
 Con respecto a las indicaciones propuestas por nuestros compañeros como valoración de este apartado en concreto hay disparidad de opiniones, un grupo nos lo califica como excelente, 
 argumentando que está bien realizado y que ha servido para detectar errores. Por otro lado nos encontramos a dos grupos que lo califican como pobre y muy pobre, uno de ellos no aporta ningún comentario realizando una crítica constructiva y el otro grupo dice que es muy breve. Pensamos que es posible que estos dos últimos grupos hayan enfocado su análisis en la conclusión que aparece en el Readme, sin haber consultado el documento incluido en la carpeta de la práctica 1 donde se elebora un análisis detallado.
