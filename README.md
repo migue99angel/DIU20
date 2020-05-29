@@ -234,3 +234,5 @@ Con respecto a las indicaciones propuestas por nuestros compañeros como valorac
 argumentando que está bien realizado y que ha servido para detectar errores. Por otro lado nos encontramos a dos grupos que lo califican como pobre y muy pobre, uno de ellos no aporta ningún comentario realizando una crítica constructiva y el otro grupo dice que es muy breve.
 
 Pensamos que es posible que estos dos últimos grupos hayan enfocado su análisis en la conclusión que aparece en el README, sin haber consultado el documento incluido en la carpeta de la Práctica 1 donde se elabora un análisis detallado.
+
+### 5.4 Mejora del Feedback Capture Grid
