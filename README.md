@@ -206,11 +206,23 @@ Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2
 
 ## Paso 5. Rediseño de práctica 
 --- 
-
-
 ### 5.1 Rediseño del análisis competitivo
+Obtenemos información tanto del checklist elaborado por el profesor tanto de las tres evaluaciones de nuestros compañeros de que el análisis competitivo es algo pobre y escaso de información. Tienen razón estas valoraciones y por tanto hemos hecho un análisis competitivo de algunas otras aplicaciones que podrían hacer competencia a Pazifika.
 
-### 5.2 Mejora del Usability Review
+Se puede leer el análisis completo a través de [este enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
+
+### 5.2 Mejoras en Personas y User Journey Map
+Otro de los posibles puntos de mejora que se detallan tanto en el checklist proporcionado por el profesor como por los compañeros de clase son las Personas ficticias propuestas y los User Journey Map correspondientes.
+
+En cuanto a las personas, algunos detallan que María Teresa es una Persona adecuada, que encaja perfectamente y no tiene ninguna incosistencias. Sin embargo, en cuanto a José Luis consideran que es una Persona ficticia demasiado forzada para encajar en el propósito de la propuesta de valor y que debería ser cambiada.
+
+Consideramos que debemos dotar a José Luis de una personalidad distinta y por eso se detallan a continuación algunos cambios que hemos decidido hacer en cuanto a su persona:
+
+Para los User Journey Maps hemos recibido críticas de que estos carecen de conflictos de uso. Hemos mejorado acordemente cada uno de los Journey Maps para reflejar cambios más relevantes y situaciones más realistas.
+
+Los cambios en las imágenes y algunas conclusiones adicionales están disponibles en [este enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
+
+### 5.3 Mejora del Usability Review
 
 Para la mejora de este apartado se han tenido en cuenta las anotaciones que el profesor propone en la checklist "Conclusion no acorde con puntuacion", y es que en nuestra conclusión inicial poníamos una calificación de 66 y en la conclusión nos centrabamos demasiado en los errores de rendimiento. 
 
@@ -220,12 +232,3 @@ Con respecto a las indicaciones propuestas por nuestros compañeros como valorac
 argumentando que está bien realizado y que ha servido para detectar errores. Por otro lado nos encontramos a dos grupos que lo califican como pobre y muy pobre, uno de ellos no aporta ningún comentario realizando una crítica constructiva y el otro grupo dice que es muy breve.
 
 Pensamos que es posible que estos dos últimos grupos hayan enfocado su análisis en la conclusión que aparece en el README, sin haber consultado el documento incluido en la carpeta de la Práctica 1 donde se elabora un análisis detallado.
-
-
-
-
-
-
-
-
-
