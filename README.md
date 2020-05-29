@@ -31,7 +31,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 Pazifiko es una plataforma que permite buscar compañeros de viaje, tanto organizar un viaje de modo que usuarios de la plataforma se unan,
-como buscar viajes ya organizados por otros usuarios. Leímos sobre otra app llamada Miss travel, pero la rechazamos porque no estamos de acuerdo con sus ideales 
+como buscar viajes ya organizados por otros usuarios. Se puede leer el análisis completo a través de [este enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
