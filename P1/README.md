@@ -8,7 +8,7 @@ El informe usado para evaluar las distintas aplicaciones se ha sustituido [este 
 
 **Meetup**: Una página web que además de ofrecer la posibilidad de crear un grupo de viaje mediante navegador también dispone de aplicaciones tanto para Android como para iOS. La página principal es llamativa y bastante atractiva, lo cual hace que la aplicación gane puntos. Conforme vamos avanzando por la página, vemos que algunas páginas están sobrecargadas de información.
 
-Consideramos entonces que la mejor opción a escoger es Pazifika, en la que podemos ver claramente la información justa en todas las páginas, pero siendo esta información relevante para la experiencia de navegación del usuario. No obstante creemos que hay varios aspectos de la aplicación que se pueden mejorar y en los que centramos las prácticas de la asignatura.n los primeros días de la asignatura pensamos en tomar como iniciativa esta aplicación. Viéndola, podemos detectar varios errores
+Consideramos entonces que la mejor opción a escoger es Pazifika, en la que podemos ver claramente la información justa en todas las páginas, pero siendo esta información relevante para la experiencia de navegación del usuario. No obstante creemos que hay varios aspectos de la aplicación que se pueden mejorar y en los que centramos las prácticas de la asignatura.n los primeros días de la asignatura pensamos en tomar como iniciativa esta aplicación. Viéndola, podemos detectar varios errores.
 
 ### 1.b Persona
 En este apartado se van a explicar las personas ficticias que hemos creado como potenciales usuarios para la plataforma con el objetivo de encontrar conflictos y problemas en la experiencia de estos usuarios.
