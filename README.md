@@ -216,7 +216,7 @@ Otro de los posibles puntos de mejora que se detallan tanto en el checklist prop
 
 En cuanto a las personas, algunos detallan que María Teresa es una Persona adecuada, que encaja perfectamente y no tiene ninguna incosistencias. Sin embargo, en cuanto a José Luis consideran que es una Persona ficticia demasiado forzada para encajar en el propósito de la propuesta de valor y que debería ser cambiada.
 
-Consideramos que debemos dotar a José Luis de una personalidad distinta y por eso se detallan a continuación algunos cambios que hemos decidido hacer en cuanto a su persona hemos considerado que no tiene mucho sentido utilizar una  persona que tiene grandes capacidades para socializarse porque esta persona se adaptaría a cualquier circustancia, sería más interesante que sea una persona con menos capacidades sociales con objetivo de observar como se desarrollaría su uso en una aplicación de este estilo. 
+En cuanto a esta persona, a José Luis, hemos considerado que no tiene mucho sentido utilizar una Persona que tiene grandes capacidades para socializarse porque esta persona se adaptaría a cualquier circustancia, sería más interesante que sea una persona con menos capacidades sociales con objetivo de observar como se desarrollaría su uso en una aplicación de este estilo. 
 
 Para los User Journey Maps hemos recibido críticas de que estos carecen de conflictos de uso. Hemos mejorado acordemente cada uno de los Journey Maps para reflejar cambios más relevantes y situaciones más realistas.
 
