@@ -209,9 +209,9 @@ Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2
 --- 
 
 
-5.1 Rediseño del análisis competitivo
+### 5.1 Rediseño del análisis competitivo
 
-5.2 Mejora del Usability Review
+### 5.2 Mejora del Usability Review
 
 Para la mejora de este apartado se han tenido en cuenta las anotaciones que el profesor propone en la checklist "Conclusion no acorde con puntuacion", y es que en nuestra conclusión inicial poníamos una calificación de 66 y en la conclusión nos centrabamos demasiado en los errores de rendimiento. 
 
