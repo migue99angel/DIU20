@@ -38,15 +38,14 @@ como buscar viajes ya organizados por otros usuarios. Se puede leer el análisis
 ![Persona 1](img/persona1.jpg)
 ![Persona 2](img/persona2.jpg)
 
-José Luis representa la juventud que busca ir de fiesta y tiene limitaciones de estudiante.
-María Teresa representa parejas jóvenes estables que viajan con hijos.
+Se detalla la decisión de incluir estar personas en el informe disponible a través de [este enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 ![Journey Map Jose Luis](img/journeyMap_JoseLuis.jpg)
 ![Journey Map Maria Teresa](img/journeyMap_MariaTeresa.jpg)
 
-Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenemos un perfil similar y es lo más similar en estas apps, también hemos elegido el perfil de Maria Teresa porque es poco común querer encontrar compañeros de viaje habiendo formado una familia.
+Se comenta brevemente cada User Journey Map en el [siguiente enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
