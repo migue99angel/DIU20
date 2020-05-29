@@ -52,7 +52,7 @@ Hemos elegido el perfil de Jose Luis en representación de nosotros ya que tenem
 ----
 - [Enlace al documento](https://github.com/migue99angel/DIU20/blob/master/P1/Usability-review-complete.pdf)
 - Valoración final (numérica): 66
-- Comentario sobre la valoración: En definitiva, la plataforma cumple con las expectativas de la misma pero carece enormemente de buena disponibilidad. Paros y cortes de servicio intermitentes y fallos habituales en la navegación.
+- Comentario sobre la valoración: Tras un exhaustivo análisis, el cual queda reflejado en [este documento](https://github.com/migue99angel/DIU20/blob/master/P1/Usability-review-complete.pdf), hemos llegado a la conclusión de que la página ofrece una experiencia de usuario aceptable, sin fallos sustanciales de diseño, pero cuenta con  problemas de disponibilidad que perjudican a su imagen y a los usuarios.
 
 
 ## Paso 2. UX Design  
@@ -205,22 +205,22 @@ También nos ha parecido interesante el tener distintas temáticas entre los dif
 Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2](https://github.com/Jovalga/DIU20), por su completitud y de una buena extensión y cuidando los detalles sobre todo del vídeo de introducción y de los bocetos. Los otros dos casos los ponemos un poco por debajo, pero ambos también son muy buenos y merecen también su reconocimiento.
 
 
-## Paso 5. Evaluación de Accesibilidad  
+## Paso 5. Rediseño de práctica 
+--- 
 
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
+5.1 Rediseño del análisis competitivo
 
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
+5.2 Mejora del Usability Review
 
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+    Para la mejora de este apartado se han tenido en cuenta las anotaciones que el profesor propone en la checklist "Conclusion no acorde con puntuacion", y es que en nuestra conclusión inicial poníamos una calificación de 66 y en la conclusión nos centrabamos demasiado en los errores de rendimiento. 
+
+    Consideramos que la calificación es la misma (66 puntos - Moderate) ya que el análisis se realizo correctamente, pero efectivamente la conclusión era bastante mejorable, ahora hacemos hincapie en que efectivamente la página tiene un diseño correcto, sin olvidar aquellos problemas de disponibilidad que lastran un poco a la plataforma.
+
+    Con respecto a las indicaciones propuestas por nuestros compañeros como valoración de este apartado en concreto hay disparidad de opiniones, un grupo nos lo califica como excelente, 
+    argumentando que está bien realizado y que ha servido para detectar errores. Por otro lado nos encontramos a dos grupos que lo califican como pobre y muy pobre, uno de ellos no aporta ningún comentario realizando una crítica constructiva y el otro grupo dice que es muy breve. Pensamos que es posible que estos dos últimos grupos hayan enfocado su análisis en la conclusión que aparece en el Readme, sin haber consultado el documento incluido en la carpeta de la práctica 1 donde se elebora un análisis detallado.
 
 
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
