@@ -105,7 +105,8 @@ Con la incorporación de filtros adicionales de búsqueda y la posible mejora de
 | Contacto | Página en la que se incluyen los distintos medios de contacto con el soporte técnico de la plataforma      |
 | Viajes   | Sección donde se publican y se pueden ver los distintos viajes que se pretenden organizar en la plataforma |
 | Perfil   | Sección donde se sitúan todas las opciones de configuración disponibles para el usuario                    |
-
+| Iniciar Sesión  | Procede a la identificación de los usuarios ya registrados previamente en la plataforma             |
+| Registrarse   | Procede a dar de alta a un usuario en la plataforma                                                   |
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
@@ -206,8 +207,9 @@ También nos ha parecido interesante el tener distintas temáticas entre los dif
 Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2](https://github.com/Jovalga/DIU20), por su completitud y de una buena extensión y cuidando los detalles sobre todo del vídeo de introducción y de los bocetos. Los otros dos casos los ponemos un poco por debajo, pero ambos también son muy buenos y merecen también su reconocimiento.
 
 
-## Paso 5. Rediseño de práctica 
---- 
+## Paso 5. Rediseño de práctica  
+La versión anterior de las prácticas de la asignatura se encuentra disponible, según lo especificado en el guión de la entrega adicional en la branch **_beta_**. Se puede acceder a ella seleccionándola en el menú superior o a través de [este enlace](https://github.com/migue99angel/DIU20/tree/beta).
+
 ### 5.1 Rediseño del análisis competitivo
 Obtenemos información tanto del checklist elaborado por el profesor tanto de las tres evaluaciones de nuestros compañeros de que el análisis competitivo es algo pobre y escaso de información. Tienen razón estas valoraciones y por tanto hemos hecho un análisis competitivo de algunas otras aplicaciones que podrían hacer competencia a Pazifika.
 
@@ -220,9 +222,9 @@ En cuanto a las personas, algunos detallan que María Teresa es una Persona adec
 
 En cuanto a esta persona, a José Luis, hemos considerado que no tiene mucho sentido utilizar una Persona que tiene grandes capacidades para socializarse porque esta persona se adaptaría a cualquier circustancia, sería más interesante que sea una persona con menos capacidades sociales con objetivo de observar como se desarrollaría su uso en una aplicación de este estilo. 
 
-Para los User Journey Maps hemos recibido críticas de que estos carecen de conflictos de uso. Hemos mejorado acordemente cada uno de los Journey Maps para reflejar cambios más relevantes y situaciones más realistas.
+Para los User Journey Maps hemos recibido críticas de que estos carecen de conflictos de uso. Hemos mejorado acordemente los Journey Maps para reflejar cambios más relevantes y situaciones más realistas.
 
-Los cambios en las imágenes y algunas conclusiones adicionales están disponibles en [este enlace](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
+Los cambios en las imágenes y algunas conclusiones adicionales están disponibles en [P1/README.md](https://github.com/migue99angel/DIU20/blob/master/P1/README.md).
 
 ### 5.3 Mejora del Usability Review
 
@@ -236,3 +238,15 @@ argumentando que está bien realizado y que ha servido para detectar errores. Po
 Pensamos que es posible que estos dos últimos grupos hayan enfocado su análisis en la conclusión que aparece en el README, sin haber consultado el documento incluido en la carpeta de la Práctica 1 donde se elabora un análisis detallado.
 
 ### 5.4 Mejora del Feedback Capture Grid
+Uno de los principales factores que también requerían mejoras según el checklist del profesor era el Feedback Capture Grid. Como punto bueno, identificaba los problemas correctamente y en general estaba bastante bien, pero le faltaba un punto importante y del que casi carecía de sentido si no se incluía: ¿resuelve los conflictos de los usuarios planteados en la primera parte del estudio?
+
+Evidentemente en nuestras primeras versiones esto no se contemplaba, y ahora se ha mejorado para incluir y mejorar los problemas que los usuarios se han encontrado según lo comentado en los User Journey Maps. Este Feedback Capture Grid mejorado se puede encontrar anteriormente en este documento.
+
+Adicionalmente, también se nos indica que no se incluye una propuesta de valor. Cabe indicar que esto se habló con el profesor en una tutoría y se incluyó posteriormente.
+
+### 5.5 Labelling y Sitemap
+Se han aplicado pequeñas mejoras al belling, que incluyen el inicio de sesión y el registro.
+
+El sitemap también se ha mejorado para que sea más acorde a lo que se pide como sitemap.
+
+### 5.6 Wireframes
