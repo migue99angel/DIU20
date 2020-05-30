@@ -273,7 +273,7 @@ Estos bocetos también están disponibles a través de [este elace](https://gith
 ### 5.7 Conclusiones de la Práctica de Bonus
 Para concluir con este documento, dejamos una conclusiones finales sobre la realización de esta práctica extra de la asignatura.
 
-En primer lugar hemos podido observar cómo hemos ido mejorando conforme realizamos las prácticas. Concretamente la Práctica 1, segúnla checklist y las evaluaciones de nuestros compañeros estaba muy mejorable. La Práctica 2 estaba algo mejor, pero aún había algunas cosas que mejorar bastante y otros detalles. Finalmente, la Práctica 3 es que la generalmente ha gustado más y estaba mejor hecha.
+En primer lugar hemos podido observar cómo hemos ido mejorando conforme realizamos las prácticas. Concretamente la Práctica 1, según la checklist y las evaluaciones de nuestros compañeros estaba muy mejorable. La Práctica 2 estaba algo mejor, pero aún había algunas cosas que mejorar bastante y otros detalles. Finalmente, la Práctica 3 es que la generalmente ha gustado más y estaba mejor hecha.
 
 La opción de poder subir nota y mejorar algunos aspectos que nos parecían necesarios para que las prácticas estuviesen mejor, nos ha dado una oportunidad para pulir esos aspectos que el profesor había comentado previamente en clase y que nuestros compañeros también nos indicaron a través de sus evaluaciones.
 
