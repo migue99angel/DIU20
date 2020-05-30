@@ -252,3 +252,29 @@ El sitemap también se ha mejorado para que sea más acorde a lo que se pide com
 Por tanto, está disponible anteriormente en este documento el *sitemap* actualizado. Además, también se puede acceder a través de [este enlace](https://github.com/migue99angel/DIU20/blob/master/P2/sitemap.png).
 
 ### 5.6 Wireframes
+En cuanto a los wireframes proponemos a continuación dos nuevos bocetos que contienen algunos cambios que venían reflejados tanto en la checklist proporcionada por el profesor como por las evaluaciones delos compañeros. Hemos decidido dejar en la sección correspondiente los wireframes antiguos, y solo proponer dos versiones de los mismos. Los cambios realizados *(listados abajo)* se aplicarían idealmente para todos los wireframes, pero consideramos que no es necesario volver a hacerlos todos de nuevo.
+
+<p align="center">
+
+**Página principal**  
+![Sitemap](Bonus/index.png)  
+<br>
+
+**Contacto**  
+![Sitemap](Bonus/contacto.png)  
+<br>
+
+</p>
+
+La diferencia con respecto a los wireframes anteriores es que se ha añadido la navegación *(las tres barras horizontales que hacen las veces de menú en versión móvil)*, los botones de inicio de sesión y registrarse en la página principal, así como u buscador simple y una sección de footer. Consideramos que ahora los bocetos se adaptan mejor al rediseño propuesto.
+
+Estos bocetos también están disponibles a través de [este elace](https://github.com/migue99angel/DIU20/tree/master/Bonus).
+
+### 5.7 Conclusiones de la Práctica de Bonus
+Para concluir con este documento, dejamos una conclusiones finales sobre la realización de esta práctica extra de la asignatura.
+
+En primer lugar hemos podido observar cómo hemos ido mejorando conforme realizamos las prácticas. Concretamente la Práctica 1, segúnla checklist y las evaluaciones de nuestros compañeros estaba muy mejorable. La Práctica 2 estaba algo mejor, pero aún había algunas cosas que mejorar bastante y otros detalles. Finalmente, la Práctica 3 es que la generalmente ha gustado más y estaba mejor hecha.
+
+La opción de poder subir nota y mejorar algunos aspectos que nos parecían necesarios para que las prácticas estuviesen mejor, nos ha dado una oportunidad para pulir esos aspectos que el profesor había comentado previamente en clase y que nuestros compañeros también nos indicaron a través de sus evaluaciones.
+
+También cabe destacar que gracias a toda la información que tenemos ya disponible de la asignatura y más concretamente de la realización de las Prácticas, no ha sido una tarea especialmente difícil mejorar los aspectos comentados en esta sección del documento.
