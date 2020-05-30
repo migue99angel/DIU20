@@ -247,6 +247,8 @@ Adicionalmente, también se nos indica que no se incluye una propuesta de valor.
 ### 5.5 Labelling y Sitemap
 Se han aplicado pequeñas mejoras al belling, que incluyen el inicio de sesión y el registro.
 
-El sitemap también se ha mejorado para que sea más acorde a lo que se pide como sitemap.
+El sitemap también se ha mejorado para que sea más acorde a lo que se pide como sitemap. Tanto en el checklist como en las evaluaciones de los compañeros, se argumenta que el sitemap aportado anteriormente era bastante pobre.
+
+Por tanto, está disponible anteriormente en este documento el *sitemap* actualizado. Además, también se puede acceder a través de [este enlace](https://github.com/migue99angel/DIU20/blob/master/P2/sitemap.png).
 
 ### 5.6 Wireframes
