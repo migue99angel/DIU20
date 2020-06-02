@@ -210,6 +210,13 @@ Por último, para concluir con un pequeño ranking, queremos destacar el [Caso 2
 ## Paso 5. Rediseño de práctica  
 La versión anterior de las prácticas de la asignatura se encuentra disponible, según lo especificado en el guión de la entrega adicional en la branch **_beta_**. Se puede acceder a ella seleccionándola en el menú superior o a través de [este enlace](https://github.com/migue99angel/DIU20/tree/beta).
 
+Este rediseño de la práctica se realiza siguiendo las evaluaciones de nuestros compañeros, así como del checklist proporcionado por el profesor. Se adjuntan enlaces a cada una de ellas:
+
+- Evaluación de DIU1.Cereza: [PDF](https://github.com/DavidGmezHdez/DIU20/blob/master/P4/DIU1.COHETE_review.pdf)/[Excel](https://github.com/DavidGmezHdez/DIU20/blob/master/P4/DIU1.COHETE_review.xls)
+- Evaluación de DIU2.EscuadrónMapache: [PDF](https://github.com/Galactic-O/DIU20/blob/master/P4/UXCaseStudyReview-DIU1Cohete.pdf)/[Excel](https://github.com/Galactic-O/DIU20/blob/master/P4/UXCaseStudyReview-DIU1Cohete.xls)
+- Evaluación de DIU3.AMRM: [PDF](https://github.com/suribel/DIU20/blob/master/P4/COHETE.pdf)/[Excel](https://github.com/suribel/DIU20/blob/master/P4/COHETE.xlsx)
+- Checklist: [PDF](https://github.com/migue99angel/DIU20/blob/master/Bonus/A1_DIU_Checklist-A1_Cohete.pdf)
+
 ### 5.1 Rediseño del análisis competitivo
 Obtenemos información tanto del checklist elaborado por el profesor tanto de las tres evaluaciones de nuestros compañeros de que el análisis competitivo es algo pobre y escaso de información. Tienen razón estas valoraciones y por tanto hemos hecho un análisis competitivo de algunas otras aplicaciones que podrían hacer competencia a Pazifika.
 
